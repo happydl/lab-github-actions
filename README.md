@@ -2,6 +2,8 @@
 
 [![Build Status](https://github.com/happydl/lab-github-actions/actions/workflows/workflow.yml/badge.svg)](https://github.com/happdl/lab-github-actions/actions)
 
+1
+
 This is for NYU DevOps lab on using GitHub Actions with Redis for Continuous Integration
 
 ## Introduction
